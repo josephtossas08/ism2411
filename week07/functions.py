@@ -1,4 +1,4 @@
-#Exercise 1
+# Exercise 1
 
 # Defining a function
 def calculate_tax(price, rate):
